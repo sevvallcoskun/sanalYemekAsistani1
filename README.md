@@ -1,6 +1,16 @@
 # SanalYemekAsistani1
  
 This project is a mobile application that provides recipes and suggestions. It aims to help users have a more efficient and enjoyable time in the kitchen.
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/10024410-4a21-4289-91cd-0fa52a511e8f)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/8dbc4f1f-ed7e-4766-afe4-1fd14fdcacec)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/6a22920d-587d-4297-8e7a-577350de0dd2)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/189abfea-22ec-4b52-ac59-d87f0487a660)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/41eba9cc-81f3-41af-822b-f87af069ce48)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/baff5b1d-ad39-432c-aa3c-ca082ebb39dd)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/612026c3-e1a9-4933-bd9d-465dbb4d2ab2)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/273ae559-6b15-4e2d-b292-bd9fced7f02c)
+
+
 
 Features:
 1. Recipe Suggestions: Provides recipes based on user preferences and needs.
