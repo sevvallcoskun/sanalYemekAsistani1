@@ -18,3 +18,7 @@ Technologies Used:
 4. MongoDB: Used for storing user data, recipes, and ingredient information.
 5. AWS (Amazon Web Services): Used for hosting the backend server.
 
+
+
+https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/98548cc2-10a9-45db-98e7-8dea8397fdbb
+
