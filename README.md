@@ -1,4 +1,4 @@
-# SanalYemekAsistani1
+# SanalYemekAsistani
  
 This project is a mobile application that provides recipes and suggestions. It aims to help users have a more efficient and enjoyable time in the kitchen.
 
