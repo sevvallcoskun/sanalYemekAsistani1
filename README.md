@@ -1,15 +1,15 @@
 # SanalYemekAsistani1
  
 This project is a mobile application that provides recipes and suggestions. It aims to help users have a more efficient and enjoyable time in the kitchen.
-![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/10024410-4a21-4289-91cd-0fa52a511e8f)
-![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/8dbc4f1f-ed7e-4766-afe4-1fd14fdcacec)
-![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/6a22920d-587d-4297-8e7a-577350de0dd2)
-![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/189abfea-22ec-4b52-ac59-d87f0487a660)
-![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/41eba9cc-81f3-41af-822b-f87af069ce48)
-![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/baff5b1d-ad39-432c-aa3c-ca082ebb39dd)
-![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/612026c3-e1a9-4933-bd9d-465dbb4d2ab2)
-![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/273ae559-6b15-4e2d-b292-bd9fced7f02c)
 
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/0f726f53-ceff-4790-bc39-96451db5fc11)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/3d48865f-4c6c-49ac-a9a2-1802a21e234a)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/6efd6320-6b99-4093-89cf-b840c26de4ff)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/23d24a4c-42a1-4b31-ae08-b2c712746277)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/b16f12d1-08d5-43b2-bba9-30246b5f3a93)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/ebc65bf7-ed0c-46e2-aa2e-de986e9b1dd8)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/347cfed4-8004-42f7-928b-aea879468825)
+![image](https://github.com/sevvallcoskun/sanalYemekAsistani1/assets/98346621/43927687-38e0-44cb-a5f3-eafe9a96d92c)
 
 
 Features:
